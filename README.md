@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nischaya Khatiwada</h1>
 <h3 align="center">A passionate frontend developer from Denver</h3>
 
-- 🔭 I’m currently working on **Scheduling App**
+- 🔭 I’m currently working on **Plothole-Gram**
 
 - 🌱 I’m currently learning **React, Node**
 
